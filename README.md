@@ -1,2 +1,2 @@
 # Hello_World
-my first step into unknown territories, to find great fortune and potential, or a waste of time and failure, to sink or float in this vast ocean of contenders.
+I am very new to this, and have been looking for a way to improve my programming skills. I think i've finally found my home.
